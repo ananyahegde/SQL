@@ -1,4 +1,4 @@
-# Task 08 — Common Table Expressions (CTEs) and Recursive Queries
+# Common Table Expressions (CTEs) and Recursive Queries
 
 **Objective:** Simplify complex queries and process hierarchical data using CTEs.
 
